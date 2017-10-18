@@ -5,7 +5,7 @@ Create a NodeJS server using ExpressJS and other NPM modules, capable of hosting
 Refer the tutorial [here](https://nodejs.org/en/download/package-manager/) to install Node and NPM in your desired operating system.
 
 ### Recommended IDE
-The latest version of IntelliJ WebStorm is recommended for this project. You can obtain a student license [here](https://www.jetbrains.com/student/). Install your desired IDE only after installing Node and NPM to avoid configuration issues.
+The latest version of [IntelliJ WebStorm](https://www.jetbrains.com/webstorm/) is recommended for this project. You can obtain a student license [here](https://www.jetbrains.com/student/). Install your desired IDE only after installing Node and NPM to avoid configuration issues.
 
 ### Getting Started
 1. Navigate to a directory on your local machine and execute `git clone <repo>`
