@@ -8,8 +8,9 @@ Refer the tutorial [here](https://nodejs.org/en/download/package-manager/) to in
 The latest version of [IntelliJ WebStorm](https://www.jetbrains.com/webstorm/) is recommended for this project. You can obtain a student license [here](https://www.jetbrains.com/student/). Install your desired IDE only after installing Node and NPM to avoid configuration issues.
 
 ### Getting Started
-1. Navigate to a directory on your local machine and execute `git clone <repo>`
-2. Enter the cloned directory (/NodeJS) and execute `npm i` to install the relevant NPM modules 
+1. Configure your local machine's SSH keys in your GitHub profile
+1. Navigate to a directory on your local machine and execute `git clone git@github.com:Mozilla-Campus-Club-IIT/NodeJS.git`
+2. Enter the the `/NodeJS` directory and execute `npm i` to install NPM and the relevant modules 
 
 ### Endpoints
 1. POST - /api/v1/members/register
