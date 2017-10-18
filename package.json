@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS server using ExpressJS and other NPM modules, capable of hosting the official Mozilla Campus Club website with API endpoints for core functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mozilla-Campus-Club-IIT/NodeJS.git"
+  },
+  "keywords": [
+    "Hacktoberfest",
+    "Mozilla",
+    "Campus",
+    "Club",
+    "IIT",
+    "Sri",
+    "Lanka"
+  ],
+  "author": "Damian Perera <damian@perera.io>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Mozilla-Campus-Club-IIT/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Mozilla-Campus-Club-IIT/NodeJS#readme"
+}
