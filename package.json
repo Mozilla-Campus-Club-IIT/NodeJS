@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/Mozilla-Campus-Club-IIT/NodeJS/issues"
   },
-  "homepage": "https://github.com/Mozilla-Campus-Club-IIT/NodeJS#readme"
+  "homepage": "https://github.com/Mozilla-Campus-Club-IIT/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
