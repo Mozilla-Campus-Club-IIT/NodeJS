@@ -1,3 +1,6 @@
+![header](https://github.com/Mozilla-Campus-Club-IIT/NodeJS/blob/master/file/hacktoberfesth1.jpg)
+![title](https://github.com/Mozilla-Campus-Club-IIT/NodeJS/blob/master/file/Collection8.jpg)
+
 ## NodeJS Project for Hacktoberfest 2017
 Create a NodeJS server using ExpressJS and other NPM modules, capable of hosting the official Mozilla Campus Club website with API endpoints for core functions. Data storage & retrieval should be conducted via the JSON files stored in the _/config_ directory. You are free to create as many JSON files with structures as needed, however limit each endpoint type (ex: _/api/v1/members/..._) to a single JSON file (ex: _/config/members.json_).
 
