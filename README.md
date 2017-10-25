@@ -8,17 +8,17 @@ Create a NodeJS server using ExpressJS and other NPM modules, capable of hosting
 Refer the tutorial [here](https://nodejs.org/en/download/package-manager/) to install Node and NPM on your desired operating system.
 
 ### Recommended IDE
-The latest version of [IntelliJ WebStorm](https://www.jetbrains.com/webstorm/) is recommended for this project. You can view more information on [JetBrains Products for Learning](https://www.jetbrains.com/student/), or obtain a [student license](https://www.jetbrains.com/shop/eform/students). Install your desired IDE only after installing Node and NPM to avoid configuration issues.
+The latest version of [IntelliJ WebStorm](https://www.jetbrains.com/webstorm/) is recommended for this project. Proceed to download (free for students) on [JetBrains Products for Learning](https://www.jetbrains.com/student/), or obtain a [student license](https://www.jetbrains.com/shop/eform/students). Install your desired IDE only after installing Node and NPM to avoid configuration issues.
 
 ### Getting Started
 1. Configure your local machine's SSH keys in your GitHub profile. Follow this [tutorial](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) for more information. 
 1. Navigate to a directory on your local machine and execute `git clone git@github.com:Mozilla-Campus-Club-IIT/NodeJS.git`
-2. Enter the the `/NodeJS` directory and execute `npm i` to install NPM and the relevant modules 
+2. Enter the the `/NodeJS` directory and execute `npm i` to initialize NPM and install the relevant modules 
 
 ### Endpoints
 1. POST - `/api/v1/members/register`
 2. GET - `/api/v1/members/:id`
-3. GET - `/api/v1/members/auth` (available only for admin members)
+3. GET - `/api/v1/members/auth` (i.e. member login, available only for admin members)
 3. GET - `/api/v1/members/list`
 4. DELETE - `/api/v1/members/:id`
 5. POST - `/api/v1/events/register`
@@ -26,7 +26,7 @@ The latest version of [IntelliJ WebStorm](https://www.jetbrains.com/webstorm/) i
 7. GET - `/api/v1/events/list`
 8. DELETE - `/api/v1/events/:id`
 
-Find instructions for the relevant endpoints in the Issues section of this repo.
+Find instructions for developing the relevant endpoints in the Issues section of this repo.
 
 ### Debugging and Testing
 Use [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) to test the API endpoints.
